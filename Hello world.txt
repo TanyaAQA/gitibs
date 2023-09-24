@@ -1,5 +1,7 @@
-print("Hello world")
-print ("Hello evrybody')
-print something else
-new hello for hello-advanced brunch
-"gladd to see you
+<<<<<<< HEAD
+print("Hello world");
+print ("Hello evrybody');
+print something else;
+new hello for hello-advanced brunch;
+"gladd to see you;
+ 
