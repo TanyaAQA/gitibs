@@ -5,3 +5,5 @@ print something else;
 new hello for hello-advanced brunch;
 "gladd to see you;
  
+
+new line console
